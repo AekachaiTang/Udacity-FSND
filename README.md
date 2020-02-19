@@ -9,9 +9,8 @@ It covers following technical topics in 1 app:
 
 1. Database modeling with `postgres` & `sqlalchemy` (see `models.py`)
 2. API to performance CRUD Operations on database with `Flask` (see `app.py`)
-3. Automated testing with `Unittest` (see `test_app`)
-4. Authorization & Role based Authentification with `Auth0` (see `auth.py`)
-5. Deployment on `Heroku`
+3. Authorization & Role based Authentification with `Auth0` (see `auth.py`)
+4. Deployment on `Heroku`
 
 <a name="start-locally"></a>
 ## Start Project locally
